@@ -1,0 +1,6 @@
+[submodule "next-auth-boilerplate-separated-backend"]
+	path = next-auth-boilerplate-separated-backend
+	url = https://github.com/oskotarenko/next-auth-boilerplate-separated-backend.git
+[submodule "next-auth-boilerplate-separated-frontend"]
+	path = next-auth-boilerplate-separated-frontend
+	url = https://github.com/oskotarenko/next-auth-boilerplate-separated-frontend.git
